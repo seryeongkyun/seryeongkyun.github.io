@@ -13,6 +13,8 @@ navbar:
       menu: 
       - text: "Predicting House Prices in Iowa"
         href: stat1.html
+      - text: "Predicting Airbnb Prices in NYC"
+        href: stat2.html
     - text: "DB/SQL"
       menu: 
       - text: "Movie Explorer"
@@ -21,6 +23,8 @@ navbar:
       menu: 
       - text: "Squid Game Elimination Analysis"
         href: visualization1.html
+    - text: "report"
+      href: tutorials.html    
   right:
     - icon: fas fa-envelope
       href: contact.html
