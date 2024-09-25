@@ -12,10 +12,8 @@ output: html_document
 
 <br><br><br><br><br><br>
 
-#### **Seryeong Kyun**
+#### **Seryeong Kyun** <img src="images/company_logo.jpg" style="width:15%;" align="right">
 ##### Business Owner and Founder 
-
-<!-- <img src="images/college_logo.png" style="width:35%;" align="right"> -->
 
 📍 Brooklet, GA <br>
 📱 (919) 527 - 3376 <br>
