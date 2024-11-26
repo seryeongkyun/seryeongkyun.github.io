@@ -3,7 +3,7 @@
     "path": "~/GitHub/seryeongkyun.github.io/stat1.Rmd",
     "project_path": "stat1.Rmd",
     "type": "r_markdown",
-    "hash": "2545009293",
+    "hash": "3744219742",
     "contents": "",
     "dirty": false,
     "created": 1732416053547.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "57,165",
-        "scrollLine": "50"
+        "cursorPosition": "19,45",
+        "scrollLine": "6"
     },
     "folds": "",
-    "lastKnownWriteTime": 1732598255,
+    "lastKnownWriteTime": 1732599084,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1732598255117,
+    "last_content_update": 1732599084842,
     "read_only": false,
     "read_only_alternatives": []
 }

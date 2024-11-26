@@ -17,7 +17,9 @@ output:
 ## **Private Library Customer Segmentation and Lifetime Value Prediction**
 
 ![](https://img.shields.io/badge/Using-Python-blue)
+![](https://img.shields.io/badge/-DBSCAN-pink)
 ![](https://img.shields.io/badge/-RandomForest-red)
+![](https://img.shields.io/badge/-LinearRegression-gray)
 ![](https://img.shields.io/badge/-KmeansClustering-success)
 
 <br>
