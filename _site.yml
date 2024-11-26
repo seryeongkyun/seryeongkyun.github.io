@@ -11,7 +11,7 @@ navbar:
    #  href: tutorials.html
     - text: "Stat/ML"
       menu: 
-      - text: "Predicting House Prices in Iowa"
+      - text: "Private Library Customer Segmentation and Lifetime Value Prediction"
         href: stat1.html
       - text: "Predicting Airbnb Prices in NYC"
         href: stat2.html
