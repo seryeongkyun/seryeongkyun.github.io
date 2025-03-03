@@ -1,0 +1,47 @@
+name: "Seryeong Kyun"
+title: "Seryeong Kyun"
+pagetitle: "Seryeong Kyun"
+base_url: https://seryeongkyun.github.io/
+google_analytics: "" # e.g. "UA-XXXXXXXXX-1", GA tracking code
+output_dir: "."
+navbar:
+  title: "Seryeong Kyun"
+  left:
+   # - text: "Tutorials"
+   #  href: tutorials.html
+    - text: "Stat/ML"
+      menu: 
+      - text: "Private Library Customer Segmentation and Lifetime Value Prediction"
+        href: stat1.html
+    #  - text: "Predicting Airbnb Prices in NYC"
+    #    href: stat2.html
+   # - text: "DB/SQL"
+   #   menu: 
+   #   - text: "Movie Explorer"
+   #     href: dbsql1.html
+   # - text: "Visualization"
+   #   menu: 
+   #   - text: "Squid Game Elimination Analysis"
+   #     href: visualization1.html
+   # - text: "report"
+   #   href: tutorials.html    
+  right:
+    - icon: fas fa-envelope
+      href: contact.html
+    - icon: ai-cv ai-lg
+      href: files/SeryeongKyun_Resume.pdf
+    - icon: fab fa-github
+      href: http://github.com/seryeongkyun
+    - icon: fab fa-linkedin-in
+      href: https://www.linkedin.com/in/seryeongkyun
+    #- icon: ai-google-scholar ai-lg
+    #  href: https://scholar.google.com/
+    #- icon: ai-researchgate ai-lg
+    #  href: https://www.researchgate.net/
+output:
+  html_document:
+    theme: cosmo
+    include:
+      # in_header: header.html
+      after_body: footer.html
+    css: styles.css
