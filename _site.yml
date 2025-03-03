@@ -13,23 +13,23 @@ navbar:
       menu: 
       - text: "Private Library Customer Segmentation and Lifetime Value Prediction"
         href: stat1.html
-      - text: "Predicting Airbnb Prices in NYC"
-        href: stat2.html
-    - text: "DB/SQL"
-      menu: 
-      - text: "Movie Explorer"
-        href: dbsql1.html
-    - text: "Visualization"
-      menu: 
-      - text: "Squid Game Elimination Analysis"
-        href: visualization1.html
-    - text: "report"
-      href: tutorials.html    
+    #  - text: "Predicting Airbnb Prices in NYC"
+    #    href: stat2.html
+   # - text: "DB/SQL"
+   #   menu: 
+   #   - text: "Movie Explorer"
+   #     href: dbsql1.html
+   # - text: "Visualization"
+   #   menu: 
+   #   - text: "Squid Game Elimination Analysis"
+   #     href: visualization1.html
+   # - text: "report"
+   #   href: tutorials.html    
   right:
     - icon: fas fa-envelope
       href: contact.html
     - icon: ai-cv ai-lg
-      href: files/sample_resume.pdf
+      href: files/SeryeongKyun_Resume.pdf
     - icon: fab fa-github
       href: http://github.com/seryeongkyun
     - icon: fab fa-linkedin-in
