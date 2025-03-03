@@ -1,26 +1,26 @@
 {
-    "id": "2C78447B",
+    "id": "4ADC5B03",
     "path": "~/GitHub/seryeongkyun.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1715200495",
     "contents": "",
     "dirty": false,
-    "created": 1733605734563.0,
+    "created": 1741029676648.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,201",
-        "scrollLine": "0"
+        "cursorPosition": "24,2",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1740522475,
+    "lastKnownWriteTime": 1741029791,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1740522475156,
+    "last_content_update": 1741029791755,
     "read_only": false,
     "read_only_alternatives": []
 }

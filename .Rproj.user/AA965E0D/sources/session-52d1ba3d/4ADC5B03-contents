@@ -1,0 +1,32 @@
+---
+pagetitle: "Index"
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="site_libs/academicons-1.9.1/css/academicons.min.css"/>
+
+<br>
+
+<p align="center">
+<img src="images/seryeong_kyun_picture.png" style="width:50%; border:0.5px solid; margin-right: 20px" align="center">
+</p>
+<br>
+
+<br><br><br>
+👋🏽 Hello, my name is Seryeong Kyun.
+
+🌇 Business owner and founder, with a strong passion for data-driven decision-making and adept at resolving challenges through insights grounded in legal frameworks.
+
+📚 I worked in the legal team at Halla Corporation, a major construction company in South Korea, for two years. Afterward, I served as a government official in Suwon City, South Korea. For the past six years, I have been running my own study center business.
+
+💻 I am excited about the opportunity to apply these experiences to support cybercrime initiatives by using data-driven insights to enhance digital security and mitigate emerging threats.
+
+🏔 In my free time, I enjoy camping.
+
+💪 Specialties in analyzing customer-driven data from e-commerce and applying insights to actionable strategies.
+
++ Programming: Python, R
++ Data visualization: Tableau Software, Power BI
++ Database: SQL, Postgre SQL, MongoDB, Neo4j
++ Cloud Computing: AWS, GCP (BigQuery), Azure
